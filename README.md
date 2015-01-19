@@ -1,5 +1,5 @@
 # pastebin-tool-opensource-project
-I've made a pastebin tool. It just took one day to make this. I find some peoples still looks for syntax highlighter and want to make their pastebin. So i made my own. The purpose of this tool to make this was actaully Pastebin was blocked in India, so i just made my own.
+I've made a pastebin tool. It just took one day to make this. I find some peoples still looks for syntax highlighter and want to make their own pastebin. So i made my own. The purpose of this tool to make this was actaully Pastebin was blocked in India, so i just made my own.
 
 If you wish to see demo you could visit here:
 
