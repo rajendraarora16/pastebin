@@ -3,7 +3,7 @@ It highlights your source codes and generates URL to share with anyone.
 
 If you wish to see demo you could visit here:
 
-[DEMO](http://paste-pastetool.rhcloud.com/)
+[DEMO](https://pastebin-app.herokuapp.com/)
 
 To create database table, you need to follow this query:
 <pre>
